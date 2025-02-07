@@ -25,7 +25,7 @@
     }
   },
   "addons": [
-    "eroku-postgresql:essential-0",
+    "heroku-postgresql:essential-0",
     "sendgrid:starter",
     "scheduler:standard"
   ],
